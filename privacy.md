@@ -15,7 +15,7 @@ Analyse académique des discours en Tunisie pour :
 - Publier des articles de recherche **anonymisés**
 
 ## 3. Partage des Données
-- **Strictement interne** : Équipe de recherche de [Votre Université]
+- **Strictement interne** : Équipe de recherche de [Faculté des sciences de Sfax - Tunisie ]
 - **Aucune revente** à des tiers
 
 ## 4. Sécurité
@@ -24,7 +24,7 @@ Analyse académique des discours en Tunisie pour :
 
 ## 5. Droits des Utilisateurs
 Pour supprimer vos données publiques de notre base :
-- Contactez-nous à : malekdhahr2001@gmail.com
+- Contactez-nous à : malekdhahri2001@gmail.com
 - Réponse sous **72h**
 
 ## 6. Contact
